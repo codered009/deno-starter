@@ -1,2 +1,0 @@
-# deno-starter
-Begin app
